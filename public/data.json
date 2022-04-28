@@ -1,0 +1,52 @@
+{
+    "data": [
+        {
+            "id": 0,
+            "img": "ConverseKids.png",
+            "name": "Converse Kids 70",
+            "category": "Sneakers",
+            "price": 49.99
+        },
+        {
+            "id": 1,
+            "img": "ConverseChuck.png",
+            "name": "Converse Chuck 70",
+            "category": "Sneakers",
+            "price": 49.99
+        },
+        {
+            "id": 2,
+            "img": "ConverseChuck.png",
+            "name": "Converse Chuck 70 Renew High Top",
+            "category": "Sneakers",
+            "price": 50.99,
+            "sale": 40,
+            "oldPrice": 84.99
+        },
+        {
+            "id": 3,
+            "img": "ConverseKids.png",
+            "name": "Converse Pro Chuck 80",
+            "category": "Sneakers",
+            "price": 64.99,
+            "sale": 35,
+            "oldPrice": 99.99
+        },
+        {
+            "id": 4,
+            "img": "AdidasSocks.jpg",
+            "name": "Adidas Crew",
+            "category": "Socks",
+            "price": 15.99,
+            "sale": 25,
+            "oldPrice": 19.99
+        },
+        {
+            "id": 5,
+            "img": "AdidasSocks.jpg",
+            "name": "Adidas Anle",
+            "category": "Socks",
+            "price": 17.99
+        }
+    ]
+}
